@@ -1,72 +1,75 @@
-<p align="center">
-  <img src="https://i.imgur.com/1XKtYms.png" width="800" alt="Sword Art Online Banner">
-</p>
+<div align="center">
+  <h1>« Edward S. // Player ID: kiritoasunaforever »</h1>
+  <h3>Data Alchemist & Code Weaver <br /> Traversing the Digital Frontiers from Indonesia</h3>
+  <img src="https://raw.githubusercontent.com/SAOliveira/SAOliveira/master/images/sword_art_online_logo_by_jharmonygraphics-d5r61pu.png" alt="SAO Logo" width="200"/> </div>
 
-<h1 align="center">Edward Sulistijono</h1>
-<h3 align="center">Data Scientist & Developer from Indonesia</h3>
+---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Medco%20Energi-Working%20Here-blue?style=for-the-badge&logo=hackthebox" />
-  <img src="https://img.shields.io/badge/GoLang-Learning-green?style=for-the-badge&logo=go" />
-  <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge&logo=icloud" />
+  <em>"This world may be a simulation, but my determination to build and innovate is very real."</em>
 </p>
 
 ---
 
-<h2 align="center">⚔️ **Link Start! Welcome to My Virtual Space** ⚔️</h2>
-
-- 🔭 I’m currently working at **Medco Energi Internasional**  
-- 🌱 I’m currently learning **GoLang**  
-- 💬 Ask me about **Machine Learning, Deep Learning, AI**  
-- 📫 Reach me at **sulistijonoedward@gmail.com**  
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/12osPh3CkSEreqidnm9JFaUsaa34O-XPb/view?usp=drive_link)  
-- ⚡ Fun fact: **I love Anime, Manga, Manhwa, Donghua (especially SAO!)**  
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kiritoasunaforever&theme=onedark&margin-w=15&margin-h=15&column=7&no-frame=true" alt="Player Achievements"/>
+  </a>
+</div>
 
 ---
 
-<h2 align="center">🗡️ **Connect with Me in the Real World**</h2>
+### <⚔️> Player Status Log <⚔️>
+
+-   `Current Guild`: **Medco Energi Internasional** (Data Scientist)
+-   `Active Quest`: 🌱 Mastering the Arts of **GoLang**
+-   `Specialization Call`: 💬 Let's discuss **Machine Learning, Deep Learning, AI** strategies!
+-   `Message Relay`: 📫 `sulistijonoedward@gmail.com`
+-   `Experience Scroll`: 📄 [Review My Quest History](https://drive.google.com/file/d/12osPh3CkSEreqidnm9JFaUsaa34O-XPb/view?usp=drive_link)
+-   `System Notice`: ⚡ Fun Fact: I frequently FullDive into the realms of Anime, Manga, Manhwa, and Donghua!
+
+---
+
+### <✨> Acquired Skills & Arsenal <✨>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,csharp,java,cpp,go,docker,git,react,tensorflow,aws,azure,gcp,linux,bash,postgresql,mysql,mongodb,redis&theme=dark" />
+  </p>
+
+---
+
+### <🌐> Holo-Network Connections <🌐>
 <p align="center">
   <a href="https://twitter.com/edwardsulistij1" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&theme=dark" />
   </a>
   <a href="https://linkedin.com/in/edwardsulistijono" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&theme=dark" />
   </a>
   <a href="https://fb.com/edward sulistijono" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&theme=dark" />
   </a>
   <a href="https://instagram.com/edwardsulistijono" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&theme=dark" />
   </a>
   <a href="https://www.hackerrank.com/sulistijonoedwa1" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-%2320BE51.svg?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-%2320BE51.svg?&style=for-the-badge&logo=hackerrank&logoColor=white&theme=dark" />
   </a>
 </p>
 
 ---
 
-<h2 align="center">🗡️ **Skills & Tools**</h2>
+### <📊> Battle Records & System Analytics <📊>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,csharp,java,cpp,go,docker,git,react,tensorflow,aws,azure,gcp,linux,bash,postgresql,mysql,mongodb,redis,kubernetes,vue" />
-</p>
-
----
-
-<h2 align="center">⚔️ **Sword Skills (GitHub Stats)**</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiritoasunaforever&show_icons=true&hide=issues,contribs&count_private=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kiritoasunaforever&show_icons=true&hide=issues,contribs&count_private=true&theme=radical&border_radius=10&hide_border=true" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiritoasunaforever&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiritoasunaforever&theme=radical&border_radius=10&hide_border=true" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiritoasunaforever&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiritoasunaforever&layout=compact&theme=radical&border_radius=10&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
 
-<h2 align="center">✨ **"In this world, strength is just an illusion." — Kirito ✨**</h2>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdkNzZjZTMwMjZkZjcyZGM5MTgwNzFkNTlhY2YyYmZiY2Y4NzUyZCZjdD1n/pUeXcg80G7qTZ9QfHy/giphy.gif" width="600" />
-</p>
+<div align="center">
+  <p><em>Need a party member for your next data-driven quest or development raid?</em></p>
+  <p><strong>« Send a Party Invite »</strong></p>
+</div>
