@@ -1,4 +1,10 @@
-![Link Start Animation](https://media.tenor.com/CHc0B6c4GOUAAAAC/sao-sword-art-online.gif)
+# Welcome to My Profile
+
+## Sword Art Online "Link Start" Experience
+
+Click the image below to start the "Link Start" experience:
+
+[![Link Start](https://media.tenor.com/CHc0B6c4GOUAAAAC/sao-sword-art-online.gif)](https://kiritoasunaforever.github.io/)
 # « Edward S. // Player ID: kiritoasunaforever »
 
 Welcome to my GitHub profile! Please wait a moment while I connect you to the virtual world...
