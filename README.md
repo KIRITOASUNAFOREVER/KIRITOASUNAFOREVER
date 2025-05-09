@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>« Edward S. // Player ID: kiritoasunaforever »</h1>
+  <img src="https://media.tenor.com/CHc0B6c4GOUAAAAC/sao-sword-art-online.gif" alt="Link Start GIF" width="300"/> <h1>« Edward S. // Player ID: kiritoasunaforever »</h1>
   <h3>Data Alchemist & Code Weaver <br /> Traversing the Digital Frontiers from Indonesia</h3>
-  <img src="https://raw.githubusercontent.com/SAOliveira/SAOliveira/master/images/sword_art_online_logo_by_jharmonygraphics-d5r61pu.png" alt="SAO Logo" width="200"/> </div>
+</div>
 
 ---
 
@@ -33,7 +33,7 @@
 ### <✨> Acquired Skills & Arsenal <✨>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,csharp,java,cpp,go,docker,git,react,tensorflow,aws,azure,gcp,linux,bash,postgresql,mysql,mongodb,redis&theme=dark" />
-  </p>
+</p>
 
 ---
 
