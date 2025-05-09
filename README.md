@@ -1,3 +1,10 @@
+![Link Start Animation](https://media.tenor.com/CHc0B6c4GOUAAAAC/sao-sword-art-online.gif)
+# « Edward S. // Player ID: kiritoasunaforever »
+
+Welcome to my GitHub profile! Please wait a moment while I connect you to the virtual world...
+
+[Click here to enter my SAO-themed profile!](https://<your-github-username>.github.io/)
+
 <div align="center">
   <img src="https://media.tenor.com/CHc0B6c4GOUAAAAC/sao-sword-art-online.gif" alt="Link Start GIF" width="300"/> <h1>« Edward S. // Player ID: kiritoasunaforever »</h1>
   <h3>Data Alchemist & Code Weaver <br /> Traversing the Digital Frontiers from Indonesia</h3>
