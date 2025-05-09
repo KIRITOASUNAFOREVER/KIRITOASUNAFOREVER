@@ -1,6 +1,6 @@
 # Welcome to My Profile
 
-<!-- Redirect to the GitHub Pages site -->
+<!-- Redirect automatically to GitHub Pages site -->
 <script type="text/javascript">
   window.location.replace("https://kiritoasunaforever.github.io/");
 </script>
