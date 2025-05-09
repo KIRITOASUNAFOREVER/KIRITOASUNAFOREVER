@@ -4,7 +4,7 @@
 
 💫 **Ready to join me in a digital realm where every line of code is an epic quest?**  
 
-👉 **Click the magical [Link Start](https://kiritoasunaforever.github.io/)** and let the adventure begin! 🗡️💻✨  
+👉 **Click the magical Link Start below** and let the adventure begin! 🗡️💻✨  
 - You’ll be whisked away to a **special SAO-themed world**, where you'll be greeted with immersive experiences, soundtracks, and video sequences.  
 - After the experience, you’ll be **automatically redirected to my GitHub profile** to continue our journey of collaboration and innovation!
 
@@ -14,9 +14,11 @@
 
 ## **The Premium Link Start Button**
 
-[<div align="center">
-  <a href="https://kiritoasunaforever.github.io/" style="display: inline-block; padding: 18px 35px; font-size: 20px; color: white; background: linear-gradient(90deg, #00c6ff, #0072ff); border: none; border-radius: 25px; box-shadow: 0 4px 15px rgba(0, 114, 255, 0.5); text-decoration: none; text-align: center; font-weight: bold; transition: all 0.3s ease-in-out; font-family: 'Arial', sans-serif; cursor: pointer;">🔗 **Link Start** - Enter the SAO Digital World 🗡️</a>
-</div>](https://kiritoasunaforever.github.io/)
+<div align="center">
+  <a href="https://kiritoasunaforever.github.io/" style="display: inline-block; padding: 18px 35px; font-size: 20px; color: white; background: linear-gradient(90deg, #00c6ff, #0072ff); border: none; border-radius: 25px; box-shadow: 0 4px 15px rgba(0, 114, 255, 0.5); text-decoration: none; text-align: center; font-weight: bold; transition: all 0.3s ease-in-out; font-family: 'Arial', sans-serif; cursor: pointer; width: 70%; max-width: 500px;">
+    🔗 **Link Start** - Enter the SAO Digital World 🗡️
+  </a>
+</div>
 
 ---
 
@@ -33,6 +35,7 @@ The journey may not be the same twice – come back for new updates and surprise
 
 🖤 **Catch you in the digital world** 💻✨  
 **Edward S. - The Code Alchemist** ✨
+
 
 
 # « Edward S. // Player ID: kiritoasunaforever »
